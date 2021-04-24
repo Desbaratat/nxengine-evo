@@ -1,9 +1,8 @@
-# NXEngine-evo
-A somewhat upgraded/refactored version of [NXEngine](http://nxengine.sourceforge.net/) by Caitlin Shaw.
-
-[![Discord chat](https://img.shields.io/discord/804396136252964954?label=Discord)](https://discord.gg/jnwmA7DhQh) [![Matrix chat](https://img.shields.io/matrix/nxengine-evo:ninetailed.ninja?server_fqdn=matrix.ninetailed.ninja&label=Matrix)](https://matrix.to/#/#nxengine-evo:ninetailed.ninja)
-
-![Screenshot](https://raw.githubusercontent.com/nxengine/nxengine-evo/master/screenshot.png)
+# NXEngine-evo Odroid Go Super Tweaks
+Fork [NXEngine-evo](https://github.com/nxengine/nxengine-evo)
+Based on [NXEngine](http://nxengine.sourceforge.net/) by Caitlin Shaw.
+ 
+![ogs](https://user-images.githubusercontent.com/48249322/115975285-b27fd700-a563-11eb-8169-565658074032.png)
 
 ## Running the game
  * Check the wiki for [Linux](https://github.com/nxengine/nxengine-evo/wiki/Building-on-Linux), [macOS](https://github.com/nxengine/nxengine-evo/wiki/Building-on-macOS), and [Windows](https://github.com/nxengine/nxengine-evo/wiki/Building-on-Windows)-specific instructions if you'd like to build from source.
