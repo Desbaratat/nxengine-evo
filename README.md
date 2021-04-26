@@ -24,3 +24,7 @@ Based on [NXEngine](http://nxengine.sourceforge.net/) by Caitlin Shaw.
 * Removed built-in data extractor
 * Removed replays, as they were buggy/not implemented anyway
 
+## Tweaks for Odroid Go Super
+* 854x480 resolution matching OGS screen (thanks to [sana2dang](https://github.com/sana2dang/nxengine-evo/commit/ce560c0c00de33ec872c66f7bb72975c4b3822a6))
+* 60 fps patch (thanks to [rea987](https://github.com/nxengine/nxengine-evo/issues/6#issuecomment-272385131)) 
+
