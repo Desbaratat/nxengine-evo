@@ -6,7 +6,7 @@ Based on [NXEngine](http://nxengine.sourceforge.net/) by Caitlin Shaw.
 
 ## Running the game
  * Check the wiki for [OGS](https://github.com/Desbaratat/nxengine-evo/wiki/Runing-Cave-Story-on-OGS)
- * Check the [Releases](https://github.com/nxengine/nxengine-evo/releases) page and download the latest version if you'd rather not build it yourself.
+ * Check the [Releases](https://github.com/Desbaratat/nxengine-evo/releases) page and download the latest version if you'd rather not build it yourself.
 
 ## Differences from the original version of NXEngine:
 * Port to SDL2 (thanks to [PIlin](https://github.com/PIlin/NXEngine-iOS))
