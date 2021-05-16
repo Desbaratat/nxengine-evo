@@ -5,7 +5,7 @@ Based on [NXEngine](http://nxengine.sourceforge.net/) by Caitlin Shaw.
 ![ogs](https://user-images.githubusercontent.com/48249322/115975285-b27fd700-a563-11eb-8169-565658074032.png)
 
 ## Running the game
- * Check the wiki for [Linux](https://github.com/nxengine/nxengine-evo/wiki/Building-on-Linux), [macOS](https://github.com/nxengine/nxengine-evo/wiki/Building-on-macOS), and [Windows](https://github.com/nxengine/nxengine-evo/wiki/Building-on-Windows)-specific instructions if you'd like to build from source.
+ * Check the wiki for [OGS](https://github.com/Desbaratat/nxengine-evo/wiki/Runing-Cave-Story-on-OGS)
  * Check the [Releases](https://github.com/nxengine/nxengine-evo/releases) page and download the latest version if you'd rather not build it yourself.
 
 ## Differences from the original version of NXEngine:
